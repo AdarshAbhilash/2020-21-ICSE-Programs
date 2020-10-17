@@ -1,0 +1,38 @@
+1) Write a menu driven class to accept a number from the
+user and check whether it is a Palindrome or a Perfect
+number.
+(a) Palindrome number- (a number is a Palindrome which
+when read in reverse order is same as read in the right
+order) Example: 11, 101, 151, etc.
+(b) Perfect number- (a number is called perfect if it is
+equal to the sum of its factors other than the number
+itself.) Example: 6=1+2+3
+
+2. Define a class named BookFair with the following
+description:
+Instance variables/Data members:
+String Bname – stores the name of the book.
+double price – stores the price of the book.
+Member Methods:
+(i) void Input() – To input and store the name and the price
+of the book.
+(ii) void calculate() – To calculate the price after discount.
+Discount is calculated based on the following criteria:
+PRICE DISCOUNT
+Less than or equal to ` 1000 2% of
+price
+More than ` 1000 and less than or equal or ` 3000
+10% of price
+More than ` 3000 15% of price
+(iii) void display() – To display the name and price of the
+book after discount.
+Write a main method to create an object of the class and
+call the above member methods.
+
+3. Write a class with the name volume using function
+overloading that computes the volume of a cube, a
+sphere and a cuboid.
+Formula: volume of a cube (vc) = s*s*s
+volume of a sphere (vs) = 4/3 * pi * r * r * r (where pi =
+3.14 or 22/7)
+Volume of a cuboid (vcd) = l * b * h
