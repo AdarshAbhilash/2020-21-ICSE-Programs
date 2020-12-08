@@ -3,7 +3,6 @@ class NumberToWord
 {
  void toWord(int a)
  {
-
         switch(a)
         {
             case 1: System.out.println("One");
@@ -37,4 +36,4 @@ class NumberToWord
         runner.toWord(c);
         in.close();
     }
-}
+} 
